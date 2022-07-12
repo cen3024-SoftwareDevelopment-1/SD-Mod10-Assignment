@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.musersoft.mod08.v0","l":"Text_Analyzer_App"}];updateSearchResults();
